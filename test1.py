@@ -1,1 +1,1 @@
-print("hello")
+print("hello global network")
